@@ -1,5 +1,5 @@
 # Orion_QuPath_Scripts
-QuPath scripts 
+Some QuPath useful scripts 
 
 ## Folder AnnotationsManip
 Scripts to import/export annotations
